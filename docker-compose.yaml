@@ -1,7 +1,7 @@
 version: "3.4"
 services:
   neko:
-    image: "xetabits/neko_sfw:latest"
+    image: "xetabits/noface:latest"
     restart: "unless-stopped"
     shm_size: "2gb"
     ports:
