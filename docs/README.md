@@ -25,4 +25,5 @@ Then I found [this](https://github.com/nurdism/neko) project and started to dig 
 
 I'm a weeb/nerd, anime is cool.
 
-***Why the creepy face?*** Because it's a character from *Spirted Away* called *no face*, the movie was created by Studio Ghibi, one of the best (I think) anime filmmakers of this century.
+***Why the creepy face?*** 
+Because it's a character from *Spirted Away* called *no face*, the movie was created by Studio Ghibi, one of the best (I think) anime filmmakers of this century.
