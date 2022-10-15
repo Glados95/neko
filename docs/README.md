@@ -2,9 +2,6 @@
 <a href="https://neko.m1k1o.net/#/" ><img src="https://raw.githubusercontent.com/Glados95/neko/master/docs/_media/logo.png" width="450" height="auto"/></a>
 <br/>
 <br/>
-<!╌ 
- <img src="https://i.imgur.com/ZSzbQr7.gif" width="650" height="auto"/> 
-╌>
 <br/>
 <br/>
 </div>
