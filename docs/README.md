@@ -1,9 +1,6 @@
 <div align="center">
 <a href="https://neko.m1k1o.net/#/" ><img src="https://raw.githubusercontent.com/Glados95/neko/master/docs/_media/logo.png" width="450" height="auto"/></a>
 <br/>
-<br/>
-<br/>
-<br/>
 </div>
 
 # noFace
