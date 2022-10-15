@@ -1,9 +1,9 @@
 <template>
   <div class="connect">
     <div class="window">
-      <div class="logo" title="About n.eko" @click.stop.prevent="about">
-        <img src="@/assets/images/logo.svg" alt="n.eko" />
-        <span><b>n</b>.eko</span>
+      <div class="logo" title="About noFace" @click.stop.prevent="about">
+        <img style="left: -9px;position: relative;" src="@/assets/images/logo.svg" alt="noFace" />
+        <span style="left: -15px;position: relative;"><b>no</b>Face</span>
       </div>
       <form class="message" v-if="!connecting" @submit.stop.prevent="connect">
         <span v-if="!autoPassword">{{ $t('connect.login_title') }}</span>

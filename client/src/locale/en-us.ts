@@ -15,7 +15,7 @@ export const connect = {
   invitation_title: 'You have been invited to this room',
   displayname: 'Enter your display name',
   password: 'Password',
-  connect: 'Connect',
+  connect: 'Log in',
   error: 'Login error',
   empty_displayname: 'Display Name cannot be empty.',
 }

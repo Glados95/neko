@@ -1,8 +1,8 @@
 <template>
   <div class="header">
     <a href="https://github.com/m1k1o/neko" title="Github repository" target="_blank" class="neko">
-      <img src="@/assets/images/logo.svg" alt="n.eko" />
-      <span><b>n</b>.eko</span>
+        <img style="left: -9px;position: relative;" src="@/assets/images/logo.svg" alt="noFace" />
+        <span style="left: -15px;position: relative;"><b>no</b>Face</span>
     </a>
     <ul class="menu">
       <li>
