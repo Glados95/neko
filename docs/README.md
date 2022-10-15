@@ -21,8 +21,8 @@ Then I found [this](https://github.com/nurdism/neko) project and started to dig 
   * Ignore user (chat and emotes)
   * Persistent settings
 
-### Why n.eko?
+### Why noFace?
 
-I like cats 🐱 (`Neko` is the Japanese word for cat), I'm a weeb/nerd.
+I'm a weeb/nerd, anime is cool.
 
-***But why the cat butt?*** Because cats are *assholes*, but you love them anyways.
+***Why the creepy face?*** Because it's a character from *Spirted Away* called *no face*, the movie was created by Studio Ghibi, one of the best (I think) anime filmmakers of this century.
